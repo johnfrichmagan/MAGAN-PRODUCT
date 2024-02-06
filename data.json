@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "ORANGE",
+      "price": 20.00,
+      "description": "JUICY KAAYO"
+    },
+    {
+      "id": 2,
+      "name": "APPLE",
+      "price": 12.00,
+      "description": "PULA KAAYU"
+    },
+    {
+      "id": 3,
+      "name": "BANANA",
+      "price": 25.00,
+      "description": "TAM-IS KAAYU"
+    },
+    {
+      "id": 4,
+      "name": "GRAPES",
+      "price": 100.00,
+      "description": "TAM-IS KAAYU"
+    }
+  ]
